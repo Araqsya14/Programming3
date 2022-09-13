@@ -146,9 +146,9 @@ function draw() {
         wormArr[j].mul()
 
     }
-for(let j in flowerArr){
-    flowerArr[j].mul()
-}
+    for (let j in flowerArr) {
+        flowerArr[j].mul()
+    }
 }
 
 
